@@ -11,7 +11,7 @@ A 20yo french computer science student at IUT A de Lille 🥖
   <img alt="C"          src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img alt="Bootstrap"  src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img alt="Symfony"    src="https://img.shields.io/badge/connect-%2300843e.svg?style=for-the-badge&logo=symfony&logoColor=white"/>  
+  <img alt="Symfony"    src="https://img.shields.io/badge/Symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white"/>
 </p>
 <p align="center">
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
