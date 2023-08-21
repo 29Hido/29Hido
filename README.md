@@ -30,5 +30,5 @@ A 20yo french computer science student at IUT A de Lille 🥖
 </p>
 
 # 📨 Get in touch:
-- 🌐 [My Website](https://hidoyat.fr)
+- 🌐 [My Website](https://hido.fr)
 - 📧 hidoyatmz@gmail.com
