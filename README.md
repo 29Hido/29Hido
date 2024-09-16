@@ -1,5 +1,5 @@
 # 👋 Hello, I'am Hido 😀
-A 22yo french 🥖 computer science student at IUT A, Lille working for [@Les-Tilleuls.coop](https://github.com/coopTilleuls/)
+A 22yo french 🥖 computer science student working for [@Les-Tilleuls.coop](https://github.com/coopTilleuls/)
 
 
 ## 🎓 I like & use:
