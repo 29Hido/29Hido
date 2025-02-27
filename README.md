@@ -1,7 +1,3 @@
-# 👋 Hello, I'am Hido 😀
-A 22yo french 🥖 computer science student working for [@Les-Tilleuls.coop](https://github.com/coopTilleuls/)
-
-
 ## 🎓 I like & use:
 <p align="center">
   <img alt="Java"       src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
@@ -29,7 +25,3 @@ A 22yo french 🥖 computer science student working for [@Les-Tilleuls.coop](htt
   <img alt="Go"         src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
   <img alt="Unity"      src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
 </p>
-
-## 📨 Get in touch:
-- 🌐 [My Website](https://hido.fr)
-- 📧 mehdi@les-tilleuls.coop
